@@ -1,0 +1,16 @@
+
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Private files
+answer_sheet_PRIVATE.csv
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Virtual environment
+venv/
+.venv/
