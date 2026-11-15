@@ -33,11 +33,6 @@ python apptest_all_pages.py        # every page of the app
 | `analysis.py` | Letter frequency, index of coincidence, change-spreading test, key space, benchmark |
 | `.streamlit/config.toml` | Dark theme colours |
 
-## Replace in your old repo
-
-Delete: `attack.py`, `attack_evaluation.py`, `test_attack.py`.
-Replace/add everything listed above. The old Attack Simulation page and the J/filler metadata are gone.
-
 ## Challenge Mode and Reveal Mode
 
 * The app starts in **Challenge Mode**: stage names, stage outputs, the Algorithm Info page and per-stage key sizes are hidden.
